@@ -1,0 +1,7 @@
+4866,1,NewDemo,11/03/2014 17:04:05 PM,Passed,11/03/2014 17:04:00 PM,basic.step,test,,,,
+"Page",Record ID,Playback Time (sec),Result,"Summary",Type,
+"Initialize Total (sec)",,2188,Passed,"",basic.init,
+"Launch Browser: InternetExplorer 9.10.9200.17089",,925,Passed,"",basic.step,
+"Iteration Total (sec)",,32,Passed,"",basic.iteration,
+"Finish Total (sec)",,2386,Passed,"",basic.finish,
+"Close Browser",,2348,Passed,"",basic.step,
